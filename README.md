@@ -1,6 +1,6 @@
 ### Cryptography 
 
-#### Decrypt already encrypted text into plain texts
+#### Decrypt cyphertexts
 
 |Cypher Text | Key | Plain text |
 |-----------|----|---------|
